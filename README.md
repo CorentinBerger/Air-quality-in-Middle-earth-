@@ -1,7 +1,7 @@
 # Air-quality-in-Middle-earth-
 To rasterize SO2, NO2, PM10 and PM2.5 annual concentrations in Middle-earth in J.R.R. Tolkien's universe.
 
-The rasters created correspond to the projections and coordinates of [the Arda Project: Maps of Middle-earth by J.R.R. Tolkien, using a DEM (digital elevation model) and place-name vectors](https://github.com/bburns/Arda).
+The rasters created correspond to the projections and coordinates of [the Arda Project: Maps of Middle-earth by J.R.R. Tolkien, using a DEM (digital elevation model) and place-name vectors](https://github.com/bburns/Arda). These layers include the locations of cities, forts and volcanoes.
 
 Concentration kriging and rasterization of the kriged grid is performed with kriging_to_raster.py.
 
